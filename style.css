@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+header p {
+    font-size: 20px;
+    color: gray;
+}
+
+.app {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.pads {
+    display: flex;
+    flex-direction: row;
+}
+
+.pad1 {
+    height: 100px;
+    width: 100px;
+    background: lightgreen;
+}
+
+.pad2 {
+    height: 100px;
+    width: 100px;
+    background: lightpink;
+}
+
+.pad3 {
+    height: 100px;
+    width: 100px;
+    background: lightsalmon;
+}
+
+.pad4 {
+    height: 100px;
+    width: 100px;
+    background: lightseagreen;
+}
+
+.pad5 {
+    height: 100px;
+    width: 100px;
+    background: lightskyblue;
+}
+
+.pad6 {
+    height: 100px;
+    width: 100px;
+    background: lightslategray;
+}
