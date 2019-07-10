@@ -28,6 +28,7 @@ header p {
     justify-content: center;
     align-items: center;
     color: gray;
+    transition: 0.1s;
 }
 
 .pad1 {
